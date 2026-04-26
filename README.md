@@ -48,7 +48,7 @@ This project demonstrates how to combine modern web UI with backend machine lear
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/jeetshaw04/multimodal-senti-analysis.git
+git clone https://github.com/Mohit-Kumar-Gupta-19/MULTIMODAL-SENTIMENT-ANALYSIS.git
 
 2. Navigate into project
 
